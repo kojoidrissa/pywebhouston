@@ -6,6 +6,8 @@
 -  Technical Sessions
 -  Tutorials
 
+# Why Conference?
+
 ## Less obvious, more valuable?
 -  Networking
     +  Future job leads
