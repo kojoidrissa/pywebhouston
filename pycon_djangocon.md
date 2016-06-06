@@ -55,7 +55,7 @@
 -  A woman from Seattle in a tutorial with me, who *seemed* quite interesting. And *WAS*, once I talked to her.
 -  A woman in SF helping kids learn to cook AND code!
 -  @glasnt, who works on BeeWare with ‪@freakboy3742‬ 
--  An old man who'd just shoplifted beer and wine from a grocery store. And was BRAGGING about it. He'd also just accepted the stub of a joint from a stranger (NOT part of PyCon. Just outside the OCC #PDXAF)
+-  An old man who'd just shoplifted beer and wine from a grocery store. And was BRAGGING about it. He'd also just accepted the stub of a joint from a stranger *(NOT part of PyCon. He was just walking by outside the OCC `#PDXAF`)*
 
 # Caravan Tiny House Hotel
 -  I like tiny houses. NO ONE else cares. I stayed in the [Rosebud](http://tinyhousehotel.com/rosebud)
