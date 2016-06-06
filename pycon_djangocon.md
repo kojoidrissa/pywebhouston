@@ -1,4 +1,26 @@
-#PyCon 2016/DjangoCon 2016
+# PyCon 2016/DjangoCon 2016
+
+# Why Conference?
+
+## Obvious
+-  Technical Sessions
+-  Tutorials
+
+## Less obvious, more valuable?
+-  Networking
+    +  Future job leads
+    +  Partners for interesting projects
+    +  Job Fair
+-  Open Spaces/BoF (live)
+-  Lightning Talks (recorded)
+-  Poster Sessions (live)
+-  Random serendipitous conversations
+    +  Breakfast w/ Nicole
+    +  Meeting various random people at lunch & in tutorials
+-  SPRINTS!
+-  Visit another city
+    +  Would you want to move/work here?
+    +  Family there?
 
 # PyCon: Retrospective
 # General
@@ -28,19 +50,23 @@
 -  An oceanographer from Brasil who wants to become a dev
 -  The DjangoGirlsNYC organizer and a fellow #CodeNewbie
 -  Two OTHER #CodeNewbies that I'd talked to on Twitter and on Slack
--  An old man who'd just shoplifted beer and wine from a grocery store. And was BRAGGING about it. He'd also just accepted the stub of a joint from a stranger (NOT part of PyCon. Just outside the OCC #PDXAF)
--  A woman from Seattle, who seemed quite interesting. And WAS.
+-  A woman from Seattle in a tutorial with me, who *seemed* quite interesting. And *WAS*, once I talked to her.
 -  A woman in SF helping kids learn to cook AND code!
 -  @glasnt, who works on BeeWare with ‪@freakboy3742‬ 
+-  An old man who'd just shoplifted beer and wine from a grocery store. And was BRAGGING about it. He'd also just accepted the stub of a joint from a stranger (NOT part of PyCon. Just outside the OCC #PDXAF)
 
 # Caravan Tiny House Hotel
--  I stayed in the [Rosebud](http://tinyhousehotel.com/rosebud)
+-  I like tiny houses. NO ONE else cares. I stayed in the [Rosebud](http://tinyhousehotel.com/rosebud)
 
 ![Rosebud](images/rosebud.png)
 
-# DjangoCon: Prologue
+# [DjangoCon](https://2016.djangocon.us/): Prologue
 
 ## General
+-  Philadelphia July 17-22
+    +  17: Tutorials
+    +  18-20: Talks
+    +  21-22: Sprints
 
 ## Specific
 -  Day -30:
