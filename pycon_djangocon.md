@@ -1,5 +1,6 @@
 # PyCon 2016/DjangoCon 2016
 ## Kojo Idrissa
+## @transition
 
 
 # Why Conference?
