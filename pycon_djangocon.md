@@ -1,4 +1,6 @@
 # PyCon 2016/DjangoCon 2016
+## Kojo Idrissa
+
 
 # Why Conference?
 
@@ -31,9 +33,11 @@
 -  My first time in Portland. The city is `#PDXAF`
 
 # Specific
--  Tutorials were great and worth the money. But 4 may have been too many. But I got to meet Harry Percival, who's awesome.
+-  Tutorials were great and worth the money. 
+-  4 may have been too many. 
+-  I got to meet Harry Percival, who's awesome.
 -  I gave up on trying to go to all the talks. Videos were going up REALLY fast!
--  Would definetly PyCon and Portland again
+-  Would definitely PyCon and Portland again
 
 # People I met you may have heard of
 -  @nedbat: he remembered me from sprint tutorials AND helped me learn to juggle bowling pins!
@@ -56,6 +60,9 @@
 -  A woman in SF helping kids learn to cook AND code!
 -  @glasnt, who works on BeeWare with ‪@freakboy3742‬ 
 -  An old man who'd just shoplifted beer and wine from a grocery store. And was BRAGGING about it. He'd also just accepted the stub of a joint from a stranger *(NOT part of PyCon. He was just walking by outside the OCC `#PDXAF`)*
+
+# People I got to see again!
+## ALL my DjangoCon peeps!
 
 # Caravan Tiny House Hotel
 -  I like tiny houses. NO ONE else cares. I stayed in the [Rosebud](http://tinyhousehotel.com/rosebud)
